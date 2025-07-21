@@ -43,6 +43,15 @@ const Projects = () => {
       featured: true
     },
     {
+      title: "Facebook loginpage clone",
+      description: "just made up Using pure Tailwind Css only",
+      image: "/img6.png",
+      technologies: ["Javascript", "Css",  "Tailwind"],
+      liveUrl: "https://hellyy26.github.io/Music-player/",
+      githubUrl: "https://github.com/Hellyy26/Music-player",
+      featured: true
+    },
+    {
       title: "Weather Dashboard",
       description: "A beautiful weather app with detailed forecasts and maps",
       image: "/img3.png",
