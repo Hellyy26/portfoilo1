@@ -16,12 +16,12 @@ const Projects = () => {
       featured: true
     },
     {
-      title: "Task Management App",
-      description: "A collaborative task management tool with real-time updates",
-      image: "/img2.png",
-      technologies: ["Javascript", "Html", "css", "Tailwind"],
-      liveUrl: "https://hellyy26.github.io/task_management/",
-      githubUrl: "https://github.com/Hellyy26/task_management",
+      title: "Real esatate",
+      description: "🏡 Find your dream home — buy, sell, or rent with ease.",
+      image: "/real.png",
+      technologies: ["Javascript", "Reactjs", "css", "Tailwind"],
+      liveUrl: "https://real-eastate-five.vercel.app/",
+      githubUrl: "https://github.com/Hellyy26/Real_eastate",
       featured: true
     },
     {
